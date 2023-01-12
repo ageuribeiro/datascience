@@ -1,33 +1,18 @@
-<!DOCTYPE html>
-<html lang="pt-br">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-    <title>README.MD</title>
-</head>
-
-<body>
     <div class="container my-5">
         <div class="bg-light p-5 rounded">
             <div class="col-sm-8 py-5 mx-auto">
-                <h1 class="display-3 fw-normal">Projetos de DataScience</h1>
+                # Projetos de DataScience
 
-                <h3 class="display-6 py-5"> Abaixo está apresentado um sumário sucinto sobre o que é Data Science e como
-                    é aplicado.</h3>
-                <p class="fs-5 my-5">
-                    Os projetos de Data Science são uma combinação de técnicas de análise de dados, ciência de
+                ###  Abaixo está apresentado um sumário sucinto sobre o que é Data Science e como&#13;&#10;                    é aplicado.
+                &#13;&#10;                    Os projetos de Data Science são uma combinação de técnicas de análise de dados, ciência de
                     computação e
                     estatística para extrair insights valiosos a partir de grandes conjuntos de dados. Eles são
                     utilizados em uma
                     variedade de indústrias, incluindo finanças, saúde, vendas e mídia, para ajudar as empresas a tomar
                     decisões
-                    informadas e melhorar seus negócios.</p>
-                <p class="fs-5 my-5">
-                    Um projeto de Data Science começa com a coleta e limpeza dos dados, seguida de uma análise
+                    informadas e melhorar seus negócios.
+                &#13;&#10;                    Um projeto de Data Science começa com a coleta e limpeza dos dados, seguida de uma análise
                     exploratória para
                     entender a distribuição dos dados e identificar qualquer problema ou tendência interessante. Em
                     seguida, é
@@ -36,18 +21,16 @@
                     também é uma parte importante de qualquer projeto de Data Science, pois permite que os insights
                     sejam facilmente
                     compreendidos por não especialistas.
-                </p>
-                <p class="fs-5 my-5">
-                    Os projetos de Data Science podem ser divididos em três categorias principais: descritiva,
+                
+                &#13;&#10;                    Os projetos de Data Science podem ser divididos em três categorias principais: descritiva,
                     exploratória e
                     preditiva. Projetos descritivos são usados para entender e resumir os dados existentes, enquanto
                     projetos
                     exploratórios são usados para encontrar padrões e relações nos dados. Projetos preditivos, por sua
                     vez, são
                     usados para fazer previsões sobre eventos futuros com base em dados passados.
-                </p>
-                <p class="fs-5 my-5">
-                    Além das técnicas de análise de dados, os projetos de Data Science também exigem habilidades de
+                
+                &#13;&#10;                    Além das técnicas de análise de dados, os projetos de Data Science também exigem habilidades de
                     comunicação e
                     colaboração, pois os insights obtidos precisam ser compartilhados e implementados de forma eficaz.
                     Em equipes de
@@ -55,9 +38,8 @@
                     de dados e
                     analistas de negócios, cada um com suas próprias habilidades e conhecimentos para contribuir para o
                     projeto.
-                </p>
-                <p class="fs-5 my-5">
-                    Em resumo, os projetos de Data Science são uma combinação de técnicas de análise de dados, ciência
+                
+                &#13;&#10;                    Em resumo, os projetos de Data Science são uma combinação de técnicas de análise de dados, ciência
                     de computação
                     e estatística que são utilizadas para extrair insights valiosos de grandes conjuntos de dados. Eles
                     são
@@ -66,14 +48,11 @@
                     negócios. A boa comunicação e colaboração entre os membros da equipe também é fundamental para o
                     sucesso de um
                     projeto de Data Science.
-                </p>
+                
             </div>
         </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
-        crossorigin="anonymous"></script>
-</body>
+    
 
-</html>
+
